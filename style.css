@@ -1,0 +1,203 @@
+.nav-bar {
+    list-style-type: none;
+   position: absolute;
+   bottom:0;
+   width: 100%;
+
+    
+}
+
+.nav-bar ul {
+    text-align: center;
+    
+
+    
+}
+
+
+.nav-bar li {
+    display: inline-block;
+    border: 1px solid black;
+    margin-right: 2%;
+    padding: 1%;
+    border-radius: 10%;
+    background-color: white;
+    
+}
+
+.header {
+    background: url("headerimage1.jpg");
+    background-size: cover;
+    background-position: top;
+    height: 100vh;
+}
+
+.about-me {
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 6%;
+}
+.about-me-text {
+    float: left;
+    width: 70%;
+    padding: 2%;
+}
+
+.my-photo {
+    display: block;
+    width: 250px;
+    padding: 2%;
+    border-radius: 100%;
+}
+.food-text {
+    padding: 0 25%;
+    
+}
+.picture-container {
+    
+}
+
+.food-picture-container {
+    text-align: center;
+    background-color: #2D0C0C;
+
+}
+.food-picture {
+    width: 200px;
+    border-radius: 50%;
+    padding-bottom: 4%;
+    
+    
+}
+
+.col-md-6 {
+    padding-bottom: 2%;
+}
+
+.food-image {
+    width: 300px;
+}
+
+.food-container {
+    text-align: center;
+    margin-top: 10%;
+    padding: 9% 0;
+    
+}
+.food-picture-container {
+    
+}
+
+.footer-container {
+    padding: 3%;
+}
+.right {
+   text-align: right;
+}
+
+.footer-details li {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.footer-details2 li {
+ display: inline-block;
+ padding-right: 4%;
+ font-size: 3rem;
+ 
+}
+
+.footer-details1 {
+    float: left;
+}
+
+.clearfix {
+    overflow: auto;
+  }
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .food-design-header {
+    text-align: center;
+    border-bottom: 1px solid black;
+    padding: 0;
+    /*margin-bottom: 5%; */
+    background-color: gold;
+  }
+  .general-nav-bar ul {
+    list-style-type: none;
+    text-align: center;
+    
+  }
+  .general-nav-bar ul li {
+    display: inline-block;
+    padding: 1% 3%;
+    
+  }
+  .recipes {
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 8%;
+    padding: 5%;
+    border: 1px dotted black;
+    border-bottom-left-radius: 5%;
+    border-top-right-radius: 5%;
+
+  }
+  .recipes {
+      background-color:brown;
+  }
+  .left{
+    float: left;
+  }
+  .right {
+    float: right;
+  }
+
+  .recipes img {
+      width: 200px;
+  }
+
+.recipe-container img{
+    width: 300px;
+
+}
+
+.recipe-container ul{
+   list-style-type: none;
+
+}
+
+.recipe-container {
+    text-align: center;
+}
+.padding-left {
+    padding-left: 15%;
+}
+
+.about-img {
+    background: url("/headerimage.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    text-align: center;
+    padding-top: 10%;
+    color: white;
+
+}
+.about-container img {
+    width: 200px;
+
+}
+
+.living_abroad_container {
+    text-align: center;
+    margin-top: 4%;
+}
+
+.living_abroad_container img {
+    width: 500px;
+}
