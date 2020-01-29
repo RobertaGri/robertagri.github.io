@@ -227,3 +227,11 @@
     width: 300px;
     margin: 14px;
 }
+.call-to-action {
+    display: inline-block;
+    border: 1px solid black;
+    margin-right: 2%;
+    padding: 1%;
+    border-radius: 10%;
+    background-color: ;
+}
